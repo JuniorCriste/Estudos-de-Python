@@ -4,10 +4,10 @@
 
 <ul>
   <li>
- <a href="https://github.com/JuniorCriste/Estudos-de-Python/tree/master/Interface%20Kivy"> Apenas Python </a>
+ <a href="https://github.com/JuniorCriste/Estudos-de-Python/tree/master/Python"> Apenas Python </a>
   </li> 
   <li>
-<a href="https://github.com/JuniorCriste/Estudos-de-Python/tree/master/Python"> Python & Kivy </a>
+<a href="https://github.com/JuniorCriste/Estudos-de-Python/tree/master/Interface%20Kivy"> Python & Kivy </a>
   </li>
 </ul>
 </h5>
