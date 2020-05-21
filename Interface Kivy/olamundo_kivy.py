@@ -10,4 +10,4 @@ class Tela(App):
 
 Tela().run()
 
-#codigo by: Junior Criste | Canal Informaticode | www.informaticode.com | @informaticode | @juniorcriste
+#codigo by: Junior Criste | Canal Informaticode | www.informaticode.com | @informaticode | @myself.junior
